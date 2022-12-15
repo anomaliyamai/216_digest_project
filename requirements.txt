@@ -1,0 +1,7 @@
+pyaes==1.6.1
+pyasn1==0.4.8
+pytz==2022.6
+rsa==4.9
+Telethon==1.26.0
+
+telegraph~=2.2.0
